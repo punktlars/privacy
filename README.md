@@ -1,4 +1,4 @@
-Privacy Policy of Punktlars
+[Privacy Policy of Punktlars
 ===========================
 
 Punktlars operates the https://github.com/punktlars/privacy/blob/main/postcard website, which provides the SERVICE.
@@ -63,3 +63,4 @@ Contact Us
 ----------
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+](https://github.com/punktlars/privacy/tree/main)https://github.com/punktlars/privacy/tree/main
